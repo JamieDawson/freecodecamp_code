@@ -1,0 +1,15 @@
+const magic = () => {
+  "use strict";
+  return new Date();
+};
+
+
+//Remove these comments. They break the code for some reason.
+/*
+var magic = function() {
+  "use strict";
+  return new Date();
+};
+*/
+
+//above is the old code. It works the same, but the correct answer is easier to read
